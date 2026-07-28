@@ -217,7 +217,7 @@ This dashboard helps business managers and decision-makers to:
 # Screenshot of Dashboard
 # 📸 Dashboard Preview
 
-![Powerbi Dashboard Project](https://github.com/vinay97-pie/Super-Store-Sales-Dashboard/blob/main/Dashboard%20Snapshot.png)
+![Powerbi Dashboard Project](https://github.com/vinay97-pie/Super-Store-Sales-Dashboard/blob/main/Dashboard%20Snapshot...png)
 
 ## 📫 Connect With Me
 
